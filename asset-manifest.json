@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marcus-tulius-library/static/css/main.bb57c150.chunk.css",
-    "main.js": "/marcus-tulius-library/static/js/main.62bfbb6d.chunk.js",
-    "main.js.map": "/marcus-tulius-library/static/js/main.62bfbb6d.chunk.js.map",
+    "main.js": "/marcus-tulius-library/static/js/main.938a74b5.chunk.js",
+    "main.js.map": "/marcus-tulius-library/static/js/main.938a74b5.chunk.js.map",
     "runtime-main.js": "/marcus-tulius-library/static/js/runtime-main.bfd75140.js",
     "runtime-main.js.map": "/marcus-tulius-library/static/js/runtime-main.bfd75140.js.map",
     "static/css/2.7c1bda0c.chunk.css": "/marcus-tulius-library/static/css/2.7c1bda0c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.7c1bda0c.chunk.css",
     "static/js/2.c6685f98.chunk.js",
     "static/css/main.bb57c150.chunk.css",
-    "static/js/main.62bfbb6d.chunk.js"
+    "static/js/main.938a74b5.chunk.js"
   ]
 }
